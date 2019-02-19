@@ -1,6 +1,6 @@
 ## Advantages of Abstraction
 
-For the most part, "knowing" in and of itself isn't necessarily bad, but "not knowing" can have its advantages. One of the main advantages of abstraction is that is let's us build complex systems much faster as we can rest our weary minds about the internals of the libraries, classes, functions, ... that can be used. If the standard libraries of C++ or the standard packages of Java were not there for us, we would still be coding on that first "hello world" program.
+For the most part, "knowing" in and of itself isn't necessarily bad, but "not knowing" can have its advantages. One of the main advantages of abstraction is that it let's us build complex systems much faster as we can rest our weary minds about the internals of the libraries, classes, functions, ... that can be used. If the standard libraries of C++ or the standard packages of Java were not there for us, we would still be coding on that first "hello world" program.
 
 Another advantage of abstraction is the fact that is decouples systems from each other and makes the separate components more maintainable. If you're writing a module in a system that interacts with another, not knowing about its internals means you will only write code in accordance to the interface or API that is externally available. This means less coupling among modules, creating code that is more maintainable.
 
